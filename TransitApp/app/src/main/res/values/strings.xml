@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TransitApp</string>
+    <string name="search">Search</string>
+    <string name="error_downloading">Error while downloading data</string>
+    <string name="warning_empty_result">No Repos available with your search word! please try to re-phrase your word</string>
+    <string name="retry">retry</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
